@@ -1,0 +1,5 @@
+webapp/node_modules/
+webapp/dist/
+webapp/.env
+webapp/.env.*
+!webapp/.env.example
